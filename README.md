@@ -1,3 +1,5 @@
+# SPRY THERAPEUTICS PRIVATE LIMITED Assignment
+# Candidate name: Maharaja K
 # Task Management Dashboard
 
 A simple task management app built with React.
